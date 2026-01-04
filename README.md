@@ -22,11 +22,9 @@ A live OpenCV Optical Flow project visualizes motion by tracking frame-to-frame 
   - `4_readvideo.py` — run optical flow on a recorded video file
   - `5a.py` — rotation/scale gradients
   - `5b.py` — solve rotation/scale motion on a video (single window)
-- `media/`
-  - `images/` or `frames/` — input image pairs / captured frames
-  - `good/` — videos that perform well
-  - `bad/` — videos that perform poorly
-  - `results/` — generated plots, overlays, threshold images, etc.
+- `good/` — videos that perform well
+- `bad/` — videos that perform poorly
+- `optical_flow_patches/ & output_images` — generated plots, overlays, threshold images, etc.
 
 ---
 
@@ -174,5 +172,6 @@ Department of Computing Science
 <p style="margin: 0; font-size: 14px; font-weight: bold;">
 November 2022, Edmonton, AB, Canada
 </p>
+
 
 </div>
